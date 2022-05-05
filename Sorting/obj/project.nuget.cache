@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6ViWLaCMk9rEyMC+wkcLr8DGbRK8jv1bk/FDXaUdsP/+ruJFX8Z8YaQW9CqhDaHQo2+CnQ/Jeexr7y2ctBIYg==",
+  "success": true,
+  "projectFilePath": "E:\\BOBO\\C#\\Sorting\\Sorting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bmile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
