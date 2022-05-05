@@ -1,0 +1,14 @@
+E:\BOBO\C#\SortIntByName\bin\Debug\netcoreapp3.1\SortIntByName.exe
+E:\BOBO\C#\SortIntByName\bin\Debug\netcoreapp3.1\SortIntByName.deps.json
+E:\BOBO\C#\SortIntByName\bin\Debug\netcoreapp3.1\SortIntByName.runtimeconfig.json
+E:\BOBO\C#\SortIntByName\bin\Debug\netcoreapp3.1\SortIntByName.runtimeconfig.dev.json
+E:\BOBO\C#\SortIntByName\bin\Debug\netcoreapp3.1\SortIntByName.dll
+E:\BOBO\C#\SortIntByName\bin\Debug\netcoreapp3.1\SortIntByName.pdb
+E:\BOBO\C#\SortIntByName\obj\Debug\netcoreapp3.1\SortIntByName.csproj.AssemblyReference.cache
+E:\BOBO\C#\SortIntByName\obj\Debug\netcoreapp3.1\SortIntByName.GeneratedMSBuildEditorConfig.editorconfig
+E:\BOBO\C#\SortIntByName\obj\Debug\netcoreapp3.1\SortIntByName.AssemblyInfoInputs.cache
+E:\BOBO\C#\SortIntByName\obj\Debug\netcoreapp3.1\SortIntByName.AssemblyInfo.cs
+E:\BOBO\C#\SortIntByName\obj\Debug\netcoreapp3.1\SortIntByName.csproj.CoreCompileInputs.cache
+E:\BOBO\C#\SortIntByName\obj\Debug\netcoreapp3.1\SortIntByName.dll
+E:\BOBO\C#\SortIntByName\obj\Debug\netcoreapp3.1\SortIntByName.pdb
+E:\BOBO\C#\SortIntByName\obj\Debug\netcoreapp3.1\SortIntByName.genruntimeconfig.cache
