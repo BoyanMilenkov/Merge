@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V1a3nBPOmG7O1U1OrJy8Vk6QOHUTOQRCeDJB0LgjCXxz4Jka9o0BeQBTnto/HuqrAOi/3Zu4m6slFX6UgIRoSg==",
+  "success": true,
+  "projectFilePath": "E:\\BOBO\\C#\\merge\\merge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bmile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
